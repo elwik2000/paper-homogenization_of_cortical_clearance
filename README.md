@@ -1,13 +1,13 @@
-# Supplementary code for the paper: Title of paper
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scientificcomputing/example-paper/HEAD)
+# Supplementary code: Well-posedness and homogenization of a waste-protein clearance model in cortical tissue
 
 This repository contains supplementary code for the paper
-> Finsberg, H., Dokken, J. 2022.
-> Title of paper, Journal of ..., volume, page, url
+> Bulíček, M., Jüngel, A., Rognes, M. E. & Wintrová, L.
+> Well-posedness and homogenization of a waste-protein clearance model in cortical tissue.
 
 
 ## Abstract
-Provide the abstract of the paper
+We formulate and analyze a mathematical model for the clearance of waste proteins from cortical tissue. The model tracks three species of waste proteins, distinguished by their size, and incorporates constant production at neuronal surfaces, reaction–diffusion in the bulk of interstitial fluid, and nonlinear dynamics on capillary surfaces. We establish the existence, boundedness, and uniqueness of a solution to the microscopic model. 
+Using two-scale convergence, we derive a homogenized model and prove that the microscopic solutions converge to the corresponding macroscopic limit. The resulting model reveals how the microscopic arrangement and relative volume fractions of neurons and capillaries affect waste-protein transport and clearance at the tissue scale. Numerical simulations illustrate these effects and demonstrate how variations in cortical microstructure translate into differences in the macroscopic clearance dynamics.
 
 ## Getting started
 
