@@ -1,8 +1,0 @@
-format: jb-book
-root: README
-
-chapters:
-  - file: docs/abstract
-  - file: docs/reproducing
-  - file: code/demo
-  - file: docs/citation
