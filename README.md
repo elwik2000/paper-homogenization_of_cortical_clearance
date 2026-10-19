@@ -73,7 +73,7 @@ Settings are constants at the top of each script. The values below reproduce the
 |---|---|---|---|
 | `MESH_RESOLUTION` | 2D | Mesh resolution passed to `mshr` | 100 |
 | `FE_DEGREE` | 2D | Polynomial degree of the CG space | 3 |
-| `MESH_TYPES` | 3D | Geometries to compute (0 to 3, see [Geometries](#geometries)) | (0, 1, 2, 3)|
+| `MESH_TYPES` | 3D | Geometries to compute (0 to 3) | (0, 1, 2, 3)|
 | `MESH_CHAR_LENGTH` | 3D | Maximal mesh size passed to Gmsh | 0.0125 |
 | `FE_DEGREE` | 3D | Polynomial degree of the CG space | 1 |
 | `SLICE_Z` | 3D | Height of the slice plot in Figure 5 | 0.5 |
