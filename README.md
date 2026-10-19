@@ -63,7 +63,7 @@ Run the 3D cell problem:
 python 3D_cell_problem.py
 ```
  
-The 3D script generates its mesh itself (via `mesh_gmsh.py` and Gmsh), so no data needs to be downloaded.
+The 3D script generates its mesh via `mesh_gmsh.py` and Gmsh, so no data needs to be downloaded.
 
 ### Settings used in the paper
  
