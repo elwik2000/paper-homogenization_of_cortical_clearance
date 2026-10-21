@@ -121,10 +121,15 @@ The effective matrix is printed to the terminal at the end of each run, as a tab
 If you use this code, please cite the paper:
  
 ```bibtex
-@article{BuJuRoWi,
-  author  = {Bul{\'\i}{\v c}ek, M. and J{\"u}ngel, A. and Rognes, M. E. and Wintrov{\'a}, L.},
-  title   = {Well-posedness and homogenization of a waste-protein clearance model in cortical tissue},
-  doi = 
+@misc{BuJuRoWi2026,
+    title        = {Well-posedness and homogenization of a waste-protein clearance model in cortical tissue},
+    author       = {Bulíček, Miroslav and Jüngel, Ansgar and Rognes, Marie E. and Wintrová, Lucie},
+    year         = {2026},
+    eprint       = {2610.26498},
+    archivePrefix = {arXiv},
+    primaryClass = {math.AP},
+    doi          = {10.48550/arXiv.2610.26498},
+    url          = {https://arxiv.org/abs/2610.26498}
 }
 ```
 
